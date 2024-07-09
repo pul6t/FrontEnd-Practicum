@@ -1,0 +1,15 @@
+html 
+{
+    font-family: Lato, Arial, sans-serif, -apple-system;
+}
+h1{
+    font-size:100px;
+    padding-left: 300px;
+    color:blue;
+}   
+.text_main{
+    vertical-align: 10px;font-size: 20px;color: rgb(13, 76, 211);
+    text-decoration: none;
+    
+}   
+
