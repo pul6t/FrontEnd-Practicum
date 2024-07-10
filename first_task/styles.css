@@ -21,3 +21,6 @@ h1{
 .grid-2-col {
     padding: 1rem;
 }
+.shadow-block {
+    box-shadow:0 1px 4px #e3ebfc,0 24px 48px #e6ebf566
+}
