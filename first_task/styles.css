@@ -8,8 +8,16 @@ h1{
     color:blue;
 }   
 .text_main{
-    vertical-align: 10px;font-size: 20px;color: rgb(13, 76, 211);
+    vertical-align: 20px;font-size: 20px;color: rgb(13, 76, 211);
     text-decoration: none;
     
 }   
+.grid-2 {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-column-gap: 15px;
+}
 
+.grid-2-col {
+    padding: 1rem;
+}
